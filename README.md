@@ -1,4 +1,4 @@
-# MGCN: Multi-View Graph Convolutional Network for Multimedia Recommendation
+# MGCN: Multi-View Graph Convolutional Network for Multimedia Recommendation (MM'23)
 
 <!-- PROJECT LOGO -->
 <br />
